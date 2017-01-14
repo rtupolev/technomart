@@ -1,0 +1,10 @@
+{
+  "name": "skokov",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-browser-sync": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
